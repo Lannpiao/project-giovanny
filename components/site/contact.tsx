@@ -29,7 +29,7 @@ export default function Contact() {
 
   return (
     <section id="contato" className="relative py-28 lg:py-36 bg-[#080808] border-t border-white/5">
-      <div className="max-w-7xl mx-auto px-6 lg:px-10 grid lg:grid-cols-2 gap-16">
+      <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-10 grid lg:grid-cols-2 gap-16">
         <div>
           <p className="text-[10px] uppercase tracking-[0.3em] text-gold/80 mb-4">Contato</p>
           <h2 className="font-display text-4xl sm:text-5xl lg:text-6xl text-white leading-tight">
@@ -70,8 +70,11 @@ export default function Contact() {
           </div>
         </div>
 
-        <div>
-          <form onSubmit={handleSubmit} className="p-6 lg:p-10 rounded-2xl bg-gradient-to-br from-[#141414] to-[#0c0c0c] border border-white/10">
+        <div className="min-w-0 flex justify-center">
+          <form
+            onSubmit={handleSubmit}
+            className="w-full max-w-xl min-w-0 p-5 sm:p-6 lg:p-10 rounded-2xl bg-gradient-to-br from-[#141414] to-[#0c0c0c] border border-white/10"
+          >
             <div className="grid sm:grid-cols-2 gap-4">
               <Field label="Nome" name="name" value={form.name} onChange={handleChange} required />
               <Field label="WhatsApp" name="phone" value={form.phone} onChange={handleChange} required />
