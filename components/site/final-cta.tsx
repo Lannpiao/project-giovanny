@@ -28,7 +28,7 @@ export default function FinalCTA() {
             <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
           </a>
           <a
-            href="https://wa.me/5500000000000?text=Ol%C3%A1%20Giovanny%2C%20quero%20um%20or%C3%A7amento"
+            href="https://wa.me/554396527300?text=Ol%C3%A1%20Giovanny%2C%20quero%20um%20or%C3%A7amento"
             target="_blank"
             rel="noopener noreferrer"
             className="group inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-[#25D366] text-white font-semibold tracking-wide hover:shadow-[0_0_50px_rgba(37,211,102,0.45)] transition-all duration-300"

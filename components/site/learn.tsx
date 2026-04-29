@@ -21,7 +21,7 @@ const forWho = [
 ];
 
 const whatsAppURL =
-  'https://wa.me/5500000000000?text=Oi%2C%20tenho%20interesse%20em%20aprender%20design%20com%20voc%C3%AA%2C%20pode%20me%20explicar%20como%20funciona%3F';
+  'https://wa.me/554396527300?text=Oi%2C%20tenho%20interesse%20em%20aprender%20design%20com%20voc%C3%AA%2C%20pode%20me%20explicar%20como%20funciona%3F';
 
 export default function Learn() {
   const [form, setForm] = useState({ name: '', phone: '', level: '', goal: '' });

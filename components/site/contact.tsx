@@ -40,7 +40,7 @@ export default function Contact() {
           </p>
 
           <div className="mt-10 space-y-4">
-            <a href="https://wa.me/5500000000000" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-5 rounded-xl bg-[#111] border border-white/5 hover:border-gold/30 transition-all group">
+            <a href="https://wa.me/554396527300" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-5 rounded-xl bg-[#111] border border-white/5 hover:border-gold/30 transition-all group">
               <div className="w-12 h-12 rounded-xl bg-[#25D366]/10 border border-[#25D366]/30 flex items-center justify-center">
                 <MessageCircle size={20} className="text-[#25D366]" />
               </div>

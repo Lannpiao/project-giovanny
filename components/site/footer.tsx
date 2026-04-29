@@ -38,7 +38,7 @@ export default function Footer() {
               <li><a href="#aprender" className="hover:text-gold transition-colors">Mentoria</a></li>
             </ul>
             <div className="flex gap-3">
-              <a href="https://wa.me/5500000000000" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" className="w-10 h-10 rounded-full border border-white/10 hover:border-gold/40 flex items-center justify-center text-white/70 hover:text-gold transition-all">
+              <a href="https://wa.me/554396527300" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" className="w-10 h-10 rounded-full border border-white/10 hover:border-gold/40 flex items-center justify-center text-white/70 hover:text-gold transition-all">
                 <MessageCircle size={16} />
               </a>
               <a href="https://instagram.com/giovannydesigner" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="w-10 h-10 rounded-full border border-white/10 hover:border-gold/40 flex items-center justify-center text-white/70 hover:text-gold transition-all">
