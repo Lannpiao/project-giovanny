@@ -12,6 +12,7 @@ import FinalCTA from '@/components/site/final-cta';
 import Contact from '@/components/site/contact';
 import Footer from '@/components/site/footer';
 import WhatsAppFloat from '@/components/site/whatsapp-float';
+import PricingTable from '@/components/site/PricingTable';
 
 export default function Home() {
   return (
@@ -23,6 +24,7 @@ export default function Home() {
       <BeforeAfter />
       <Differentials />
       <Process />
+      <PricingTable />
       <Learn />
       <Testimonials />
       <ForWho />
